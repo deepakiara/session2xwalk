@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ovv-walk/:/",
-    "/content/ovv-walk/configuration:/.helix/config.json",
-    "/content/ovv-walk/metadata:/metadata.json"
+    "/content/dp-walk/:/",
+    "/content/dp-walk/configuration:/.helix/config.json",
+    "/content/dp-walk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ovv-walk/"
+    "/content/dp-walk/"
   ]
 }
